@@ -1,4 +1,4 @@
-//Hello I am the main app file. I am basically in control of your front end routing and tieing everything together. Please take a look but DO NOT ADJUST. Thank you.
+//Hello I am the main app file. I am basically in control of your front end routing and tieing everything together. Please take a look but DO NOT ADJUST. Thank you. You're welcome!
 
 angular.module("examApp", ["ui.router", "examApp.controllers"])
     .config(function($stateProvider, $urlRouterProvider){
